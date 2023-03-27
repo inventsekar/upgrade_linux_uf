@@ -1,3 +1,3 @@
 #!/bin/bash
 
-( /opt/splunkforwarder/etc/apps/upgrade_linux_uf/bin/upgrade.sh & )
+( C:\Program Files\SplunkUniversalForwarder\etc\apps\upgrade_linux_windows\bin\upgrade.bat & )
